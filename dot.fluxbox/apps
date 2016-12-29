@@ -1,0 +1,12 @@
+[app] (ncmpcpp-top)
+      [Deco] {NONE}
+      [Position] (CENTER) {0 0}
+      [Layer]    {2}
+      [Fullscreen] {yes}
+[end]
+
+[app] (Conky)
+      [Layer]   {12}
+      [Deco]    {BORDER}
+      [Sticky]  {yes}
+[end]
